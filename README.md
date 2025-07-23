@@ -1,10 +1,10 @@
-# Railway Reservation System 🚂
+# Railway Reservation System 
 
 This project is a command-line based Railway Reservation System developed in C. It leverages core data structure concepts and file handling to provide a robust and efficient platform for managing train reservations, passenger information, and administrative tasks.
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 * **User Authentication:** Secure login, registration, and password recovery system for users.
 * **Admin Dashboard:** A separate, password-protected module for administrators to manage the system.
@@ -16,14 +16,14 @@ This project is a command-line based Railway Reservation System developed in C. 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Language:** C
 * **Core Concepts:** Data Structures, File Handling (Binary and Text files)
 
 ---
 
-## 🗃️ Database Files
+## Database Files
 
 The system uses several files to persist data. These are created automatically on the first run if they don't exist.
 
@@ -34,7 +34,7 @@ The system uses several files to persist data. These are created automatically o
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 Follow these instructions to compile and run the project on your local machine.
 
