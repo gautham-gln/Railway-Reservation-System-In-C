@@ -62,7 +62,7 @@ You'll need a C compiler, such as GCC, installed on your system.
 
 ---
 
-## ⚙️ System Modules & Functionality
+## System Modules & Functionality
 
 ### User Authentication
 
